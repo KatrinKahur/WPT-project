@@ -1,0 +1,3 @@
+[submodule "external/WPT-webapp"]
+	path = external/WPT-webapp
+	url = git@github.com:KatrinKahur/WPT-webapp.git
