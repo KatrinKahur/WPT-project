@@ -1,3 +1,6 @@
 [submodule "external/WPT-webapp"]
 	path = external/WPT-webapp
 	url = git@github.com:KatrinKahur/WPT-webapp.git
+[submodule "WPT-Gateway"]
+	path = WPT-Gateway
+	url = https://github.com/jakobgotberg/WPT-Gateway.git
