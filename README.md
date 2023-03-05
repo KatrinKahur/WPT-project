@@ -1,8 +1,8 @@
 # WPT-project
 ## The project consists of two repositories: 
 
-### [- The WPT Gateway repository](https://github.com/jakobgotberg/WPT-Gateway)
-### [- The WPT web app repository](https://github.com/KatrinKahur/WPT-webapp)
++ [The WPT Gateway repository](https://github.com/jakobgotberg/WPT-Gateway)
++ [The WPT web app repository](https://github.com/KatrinKahur/WPT-webapp)
 
 ## Clone
 ```bash
